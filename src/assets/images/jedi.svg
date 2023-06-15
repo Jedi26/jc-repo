@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" id="Layer_2" data-name="Layer 2" viewBox="0 0 144.52 147.5">
+  <defs>
+    <style>.cls-1{fill:#f2f1e5;}.cls-2{fill:none;stroke:#65b2ae;stroke-miterlimit:10;stroke-width:3px;}.cls-3{fill:#65b2ae;}.cls-4{fill:#22999d;}.cls-5{fill:#258894;}.cls-6{fill:#33afa1;}.cls-7{fill:#29b7a2;}.cls-8{fill:#2da4a1;}.cls-9{fill:#33b1a3;}.cls-10{fill:#30b1a1;}.cls-11{fill:#29a1a1;}.cls-12{fill:#33a8a1;}</style>
+  </defs>
+  <title>logosvg</title>
+  <ellipse class="cls-1" cx="72.26" cy="73.75" rx="72.26" ry="73.75"></ellipse>
+  <ellipse class="cls-2" cx="72.26" cy="73.96" rx="65.92" ry="67.28"></ellipse>
+  <polygon class="cls-3" points="74.26 18.43 74.26 51.9 102.23 35.17 74.26 18.43"></polygon>
+  <polygon class="cls-4" points="102.23 35.17 102.23 67.24 74.26 51.9 102.23 35.17"></polygon>
+  <polygon class="cls-5" points="74.26 51.9 102.23 67.24 74.26 77.93 74.26 51.9"></polygon>
+  <polygon class="cls-6" points="102.23 67.24 74.26 77.93 102.23 94.2 102.23 67.24"></polygon>
+  <polygon class="cls-7" points="74.26 77.93 74.26 104.43 102.23 94.2 74.26 77.93"></polygon>
+  <polygon class="cls-8" points="102.23 94.2 74.26 104.43 74.26 133.72 102.23 94.2"></polygon>
+  <polygon class="cls-9" points="102.23 94.2 102.23 119.77 74.26 133.72 102.23 94.2"></polygon>
+  <polygon class="cls-10" points="74.26 102.57 49.94 88.63 74.26 133.72 74.26 102.57"></polygon>
+  <polygon class="cls-11" points="49.94 88.63 24.8 104.43 49.94 119.31 49.94 88.63"></polygon>
+  <polygon class="cls-12" points="49.94 88.63 74.26 133.72 49.94 119.31 49.94 88.63"></polygon>
+</svg>

@@ -14,14 +14,13 @@ gatsby new [your-filename] https://github.com/Jedi26/jc-repo.git
 
 ## Setup Github API
 
-
 Read and follow this [tutorial](https://jconline.tech) to learn how to set-up GitHub API and find where to geet Access tokens needed.
 
 ```
 GITHUB_PERSONAL_ACCESS_TOKEN=
 GITHUB_LOGIN=
 ```
-
+<img src="https://res.cloudinary.com/juanajc92/image/upload/v1686822857/GG_btgvmy.png" />
 
 ## Live Demo
 Click  the link  to  view 

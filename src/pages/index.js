@@ -39,16 +39,16 @@ class HomeIndex extends React.Component {
                            
                             <h3>Get Started</h3>
 
-                            <p> This <a href="/">tutorial</a> will help you and run this command to get the repository </p>
+                            <p> This <a href="https://medium.com/@jedalvarezuybentillo/jc-repo-guide-c5b1d9a10a04">tutorial</a> will help you and run this command to get the repository </p>
                                 <pre>
                                     <code>
-                                    gatsby new [your-filename] https://github.com/Jedi26/jc-repo.git
+                                    gatsby new [your-filename] https://github.com/Jedi26/jc-repo
                                 </code>
                                 </pre>
 
                                 <ul className="actions">
                                     
-                                    <li> <Link to="/" className="button"> READ TUTORIAL </Link> </li>
+                                    <li> <Link to="https://medium.com/@jedalvarezuybentillo/jc-repo-guide-c5b1d9a10a04" className="button"> READ TUTORIAL </Link> </li>
                              
                                 </ul>
                             <br/> 

@@ -6,10 +6,10 @@ JC Repo is a web project that combines the capabilities of Gatsby, a React-based
 
 ## Get Started
 
-This [tutorial](https://jconline.tech) will help you, and in order to clone this repository, run this command 
+This [tutorial](https://medium.com/@jedalvarezuybentillo/jc-repo-guide-c5b1d9a10a04) will help you, and in order to clone this repository, run this command 
 
 ```
-gatsby new [your-filename] https://github.com/Jedi26/jc-repo.git
+gatsby new [your-filename] https://github.com/Jedi26/jc-repo
 ```
 
 ## Setup Github API

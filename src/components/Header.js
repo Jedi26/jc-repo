@@ -1,9 +1,7 @@
 import React from 'react'
 import PropTypes from 'prop-types'
 import { Link } from 'gatsby'
-// import { useCartCount } from "../context/StoreContext"
-// import { Links } from "../components/LinksJSX"
-//import { MdShoppingCart} from 'react-icons/md'
+
 
 const Header = (props) => {
 
@@ -13,7 +11,7 @@ const Header = (props) => {
 
     <header id="header" className="alt">
         <nav>
-            <a className="menu-link" onClick={props.onToggleMenu} href="/">Menu</a>
+            <a className="menu-link" onClick={props.onToggleMenu} href="javascript:void(0)">Menu</a>
         </nav>
         <Link to="https://jconline.tech/" className="logo"><strong>JC PORTFOLIO</strong> </Link>
       

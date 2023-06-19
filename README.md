@@ -14,7 +14,7 @@ gatsby new [your-filename] https://github.com/Jedi26/jc-repo
 
 ## Setup Github API
 
-Read and follow this [tutorial](https://jconline.tech) to learn how to set-up GitHub API and find where to geet Access tokens needed.
+Read and follow this [tutorial](https://medium.com/@jedalvarezuybentillo/jc-repo-guide-c5b1d9a10a04) to learn how to set-up GitHub API and find where to geet Access tokens needed.
 
 ```
 GITHUB_PERSONAL_ACCESS_TOKEN=

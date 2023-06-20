@@ -3,6 +3,7 @@ JC Repo is a web project that combines the capabilities of Gatsby, a React-based
 
 
 <img src="https://res.cloudinary.com/juanajc92/image/upload/v1686822791/jcg4_cs704y.png" />
+![A medium cat image](https://cdn2.thecatapi.com/images/9qLSHCaQQ.jpg)
 
 ## Get Started
 

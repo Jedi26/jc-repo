@@ -1,6 +1,7 @@
 # jc-repo
 JC Repo is a web project that combines the capabilities of Gatsby, a React-based framework for building websites, with the versatility of GitHub's API. This project showcases repositories with the use of GitHub's API, Gatsby and Graphql queries. This displays projects in an organized and visually appealing manner. 
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/a77718d4-cb8d-479d-a42d-0af1b8e5df86/deploy-status)](https://app.netlify.com/sites/jcrepo1/deploys)
 
 <img src="https://res.cloudinary.com/juanajc92/image/upload/v1687241651/readme_kis4di.png" />
 

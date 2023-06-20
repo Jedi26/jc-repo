@@ -28,6 +28,9 @@ export default function RepoPage() {
                         homepageUrl
                         openGraphImageUrl
                         url
+                        readme {
+                          text
+                        }
                         stargazers {
                           totalCount
                         }

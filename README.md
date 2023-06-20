@@ -21,7 +21,7 @@ Read and follow this [tutorial](https://medium.com/@jedalvarezuybentillo/jc-repo
 GITHUB_PERSONAL_ACCESS_TOKEN=
 GITHUB_LOGIN=
 ```
-<img src="https://res.cloudinary.com/juanajc92/image/upload/v1686822857/GG_btgvmy.png" />
+<img src="https://res.cloudinary.com/juanajc92/image/upload/v1687241727/ggg_phh5n9.png" />
 
 ## Live Demo
 Click  the link  to  view 

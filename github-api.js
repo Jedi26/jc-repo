@@ -14,7 +14,7 @@ query($github_login: String!) {
 				stargazers {
 					totalCount
 				}
-				readme: object(expression: "master:README.md") {
+				readme: object(expression: "main:README.md") {
 					... on Blob {
 						text
 					}

@@ -5,7 +5,8 @@ import { graphql} from 'gatsby'
 import { GoMarkGithub,  GoStar } from 'react-icons/go'
 import { useStaticQuery } from "gatsby"
 import { GoRepoForked } from 'react-icons/go'
-
+import ReactMarkdown from 'react-markdown'
+import rehypeRaw from 'rehype-raw'
 
 
 export default function RepoPage() {
@@ -61,8 +62,14 @@ export default function RepoPage() {
                         
                         <p>{repo.description}</p>
                         
-                        <img src={repo.openGraphImageUrl} width="300"  alt="githubavatar"/>
-
+                        {/* <img src={repo.openGraphImageUrl} width="300"  alt="githubavatar"/>  */}
+                         
+                        <div className='box alt' style={{ maxWidth:"500px", maxHeight: '200px', overflow: 'auto', border: '1px solid gray', margin: '1rem', padding: '1rem' }}>
+                         <ReactMarkdown escapeHtml={false} rehypePlugins={[rehypeRaw]} >
+                         {repo.readme.text}
+                          </ReactMarkdown> 
+                          </div>
+                              
                         <ul className="actions">
                                       <li><a href={repo.url} className="button special"> 
                                       <span>

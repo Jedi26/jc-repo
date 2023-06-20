@@ -25,4 +25,4 @@ GITHUB_LOGIN=
 
 ## Live Demo
 Click  the link  to  view 
-[JC Repo](https://jcrepo.netlify.app/)
+[JC Repo](https://jcrepo1.netlify.app/)
